@@ -24,7 +24,7 @@ rabbitmq server must be running with user bechir and password bechir
 ./runEmitLogs
 ```
 
-# ressources
+# resources
 https://www.rabbitmq.com/tutorials/tutorial-three-java.html
 https://www.rabbitmq.com/tutorials/tutorial-two-java.html
 https://www.rabbitmq.com/tutorials/tutorial-one-java.html  

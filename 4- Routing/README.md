@@ -28,7 +28,7 @@ rabbitmq server must be running with user bechir and password bechir
 messages are routed by their severity
 ![execution](./images/exec.png)
 
-# ressources
+# resources
 https://www.rabbitmq.com/tutorials/tutorial-four-java.html  
 https://www.rabbitmq.com/tutorials/tutorial-three-java.html  
 https://www.rabbitmq.com/tutorials/tutorial-two-java.html  

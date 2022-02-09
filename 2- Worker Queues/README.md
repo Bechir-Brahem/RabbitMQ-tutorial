@@ -24,7 +24,7 @@ rabbitmq server must be running with user bechir and password bechir
 ./runNewTask
 ```
 
-# ressources
+# resources
 https://www.rabbitmq.com/tutorials/tutorial-two-java.html
 https://www.rabbitmq.com/tutorials/tutorial-one-java.html  
 https://www.rabbitmq.com/api-guide.html

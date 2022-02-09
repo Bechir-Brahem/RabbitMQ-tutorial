@@ -24,7 +24,7 @@ java -cp "./build/:./lib/*" Recv
 java -cp "./build/:./lib/*" Send
 ```
 
-# ressources
+# resources
 https://www.rabbitmq.com/tutorials/tutorial-one-java.html  
 https://www.rabbitmq.com/api-guide.html
 
